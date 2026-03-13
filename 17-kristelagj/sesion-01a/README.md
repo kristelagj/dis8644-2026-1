@@ -42,7 +42,7 @@
 
 - Gogbotic
 
-**Post clase**
+### Post clase
 
 ¿Cómo tener un buen proceso en github?
 
